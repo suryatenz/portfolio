@@ -4,22 +4,19 @@
 }
 
 .jk{
-    background-image: url('./imgs/bg\(ff\).jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    /* background-image: url('./imgs/bg\(ff\).jpg'); */
+    background-color: #042743;
+    /* background-size: cover;
+    background-repeat: no-repeat; */
 }
 /* .na{
     position: fixed;
     z-index: 1;
     width: 100%;
 } */
-.ti{
+/* .ti{
     padding-top: 18rem;
     padding-left: 28rem;
     text-align: center;
-}
-.hh{
-    padding-top: 0rem;
-    padding-right: 22rem;
-    text-align: center;
-}
+} */
+

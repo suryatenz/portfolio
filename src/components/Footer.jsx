@@ -24,7 +24,7 @@ export default function Footer() {
         </a>
       </div>
       <hr/>
-      <p className="mb-0 pt-3">All rights reserved &copy; 2023</p>
+      <p className="mb-0 pt-3">All rights reserved till &copy; 2025</p>
     </footer>
     </div>
   )
